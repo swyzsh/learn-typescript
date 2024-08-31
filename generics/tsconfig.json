@@ -1,0 +1,13 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "strict": true,
+    "noImplicitAny": true,
+    "removeComments": false,
+    "lib": ["ESNext", "DOM", "ES2015"],
+  },
+  "include": ["generics.ts"],
+  "exclude": ["node_modules"]
+}
